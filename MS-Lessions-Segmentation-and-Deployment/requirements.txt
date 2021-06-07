@@ -1,0 +1,10 @@
+tensorflow
+pandas 
+numpy 
+matplotlib
+seaborn 
+cv2
+zipfile
+google-colab
+scikit-learn 
+scikit-images
